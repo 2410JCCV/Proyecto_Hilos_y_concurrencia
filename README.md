@@ -51,9 +51,6 @@ tragamonedas-java/
 3. Si los tres símbolos coinciden, ¡ganaste!
 4. Si no, intenta nuevamente.
 
-## Capturas de Pantalla
-*Inserta aquí imágenes del juego en ejecución.*
-
 ## Contribución
 Si deseas mejorar el proyecto:
 1. Haz un fork del repositorio.
@@ -65,6 +62,3 @@ Si deseas mejorar el proyecto:
 ## Autor
 Carrillo Viveros Juan Carlos-217o002237
 Luna Zamora Marlleli-217o00552
-
-## Licencia
-Este proyecto está bajo la licencia MIT.
